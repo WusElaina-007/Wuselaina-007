@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=%5B+ROOT%5D+Wuselaina-007;Developer+%7C+AI+Explorer+%7C+Game+Modder;BUILDING+%E2%80%A2+BREAKING+%E2%80%A2+REBUILDING;SYSTEM.STATUS%3D+ONLINE_%E2%9C%93" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=%5B+ROOT+%5D+Wuselaina-007;Developer+%7C+AI+Explorer+%7C+Game+Modder;BUILDING+%E2%80%A2+BREAKING+%E2%80%A2+REBUILDING;SYSTEM.STATUS%3D+ONLINE_%E2%9C%93" />
 
 <br>
 
@@ -94,9 +94,9 @@ Exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WusElaina-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WusElaina-007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
+<a href="https://github.com/WusElaina-007?tab=repositories">
+<img src="./assets/github-stats.svg" width="95%" alt="GitHub profile dashboard" />
+</a>
 
 </div>
 
@@ -107,7 +107,7 @@ Exploring:
 <div align="center">
 
 <a href="https://github.com/WusElaina-007">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WusElaina-007&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+<img src="./assets/activity-graph.svg" width="95%" alt="GitHub activity visualization" />
 </a>
 
 </div>
@@ -118,7 +118,7 @@ Exploring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WusElaina-007&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" width="95%" alt="GitHub trophies" />
+<img src="./assets/trophies.svg" width="95%" alt="Achievement grid" />
 
 </div>
 
@@ -128,11 +128,9 @@ Exploring:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WusElaina-007/Wuselaina-007/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WusElaina-007/Wuselaina-007/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/WusElaina-007/Wuselaina-007/output/github-snake.svg" width="95%" alt="GitHub contribution snake" />
-</picture>
+<a href="https://github.com/WusElaina-007/graphs/contributors">
+<img src="./assets/contribution-matrix.svg" width="95%" alt="Contribution matrix" />
+</a>
 
 </div>
 
