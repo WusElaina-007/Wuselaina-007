@@ -1,30 +1,33 @@
 <div align="center">
 
-# `WUSELAINA-007`
+<img src="./assets/cyberpunk-profile.svg" alt="Wuselaina-007 cyberpunk profile" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+PROFILE...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+DEVELOPER+%7C+GAME+DEV;%3E+BUILDING+%E2%80%A2+BREAKING+%E2%80%A2+REBUILDING;%3E+WELCOME+TO+MY+DIGITAL+SPACE" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=%5B+ROOT%5D+Wuselaina-007;Developer+%7C+AI+Explorer+%7C+Game+Modder;BUILDING+%E2%80%A2+BREAKING+%E2%80%A2+REBUILDING;SYSTEM.STATUS%3D+ONLINE_%E2%9C%93" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-ff00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MODE-CYBERPUNK-7a00ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-FF00CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MODE-CYBERPUNK-7A00FF?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=WusElaina-007&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## `> whoami`
+## `> WHOAMI`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    WUSELAINA-007                             │
-├──────────────────────────────────────────────────────────────┤
-│ Role       : Developer / Game Developer                      │
-│ Environment: Windows / Linux / Android                        │
-│ Interests  : Code • Games • AI • Modding • Automation        │
-│ Status     : Learning & Building                             │
-└──────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│ USER       :: Wuselaina-007                                 │
+│ STATUS     :: ONLINE                                         │
+│ MODE       :: BUILD / EXPLORE / BREAK / FIX                 │
+│ INTERESTS  :: AI • Coding • Minecraft • Game Modding       │
+│             :: Automation • Web • Localization              │
+│ CURRENT    :: Learning • Experimenting • Building           │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 > I like turning ideas into things that actually work.
@@ -33,28 +36,24 @@
 
 ---
 
-## `> SYSTEMS`
+## `> TECH_STACK`
 
-### 💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,java,cpp,git,github,linux,androidstudio&perline=6" />
 
-### 🛠️ Tools
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,linux,docker,androidstudio" />
-</p>
+---
 
-### 🧠 Currently Exploring
+## `> CURRENTLY_EXPLORING`
 
 ```text
-[████████████████████░░] AI / LLM
-[██████████████████░░░░] Game Development
-[█████████████████░░░░░] Automation
-[███████████████░░░░░░░] Web Development
-[██████████████░░░░░░░░] Reverse Engineering
+[██████████████████░░] AI / LLM / Agents
+[████████████████░░░░] Web Development
+[███████████████░░░░░] Game Development
+[██████████████░░░░░░] Automation
+[████████████░░░░░░░░] Localization
 ```
 
 ---
@@ -63,12 +62,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Wuselaina-007">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wuselaina-007&repo=mod&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Wuselaina-007?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-%E2%86%92-00f7ff?style=for-the-badge" />
+<a href="https://github.com/WusElaina-007?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-%E2%86%92-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -77,21 +72,21 @@
 
 Building and experimenting with:
 
-* Game systems
-* Modding tools
-* Localization pipelines
-* Developer utilities
-* Experimental gameplay mechanics
+- Game systems
+- Modding tools
+- Localization pipelines
+- Developer utilities
+- Experimental gameplay mechanics
 
 ### 🤖 AI / Automation
 
 Exploring:
 
-* LLM APIs
-* AI developer tools
-* Model experimentation
-* Workflow automation
-* Local / browser-based AI
+- LLM APIs
+- AI developer tools
+- Model experimentation
+- Workflow automation
+- Local / browser-based AI
 
 ---
 
@@ -99,9 +94,9 @@ Exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wuselaina-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WusElaina-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuselaina-007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WusElaina-007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
 
 </div>
 
@@ -111,7 +106,9 @@ Exploring:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wuselaina-007&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<a href="https://github.com/WusElaina-007">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WusElaina-007&bg_color=0D1117&color=00E5FF&line=FF00CC&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+</a>
 
 </div>
 
@@ -121,7 +118,7 @@ Exploring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Wuselaina-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=WusElaina-007&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" width="95%" alt="GitHub trophies" />
 
 </div>
 
@@ -131,24 +128,11 @@ Exploring:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wuselaina-007/Wuselaina-007/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
----
-
-## `> NOW_PLAYING`
-
-<div align="center">
-
-### 🎵 Spotify
-
-<!--
-Spotify integration can be added through a GitHub Action.
-See the repository configuration for the generated Spotify card.
--->
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true" width="500"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WusElaina-007/Wuselaina-007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WusElaina-007/Wuselaina-007/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/WusElaina-007/Wuselaina-007/output/github-snake.svg" width="95%" alt="GitHub contribution snake" />
+</picture>
 
 </div>
 
@@ -157,24 +141,22 @@ See the repository configuration for the generated Spotify card.
 ## `> TERMINAL`
 
 ```bash
-$ ./wuselaina --status
+$ whoami
+Wuselaina-007
 
-[+] identity      : Wuselaina-007
-[+] system        : ONLINE
-[+] coding        : ACTIVE
-[+] creativity    : ENABLED
-[+] curiosity     : 100%
-[+] bugs          : MANY
-[+] coffee        : REQUIRED
+$ ./wuselaina --status
+[+] system     : ONLINE
+[+] coding     : ACTIVE
+[+] creativity : ENABLED
+[+] curiosity  : 100%
+[+] bugs       : MANY
 
 $ ./wuselaina --next-project
-
 > scanning ideas...
 > analyzing possibilities...
 > creating something interesting...
 
 [████████████████████████████████] 100%
-
 > PROJECT INITIALIZED ✓
 ```
 
@@ -184,8 +166,12 @@ $ ./wuselaina --next-project
 
 <div align="center">
 
-<a href="https://github.com/Wuselaina-007">
-<img src="https://img.shields.io/badge/GitHub-Wuselaina--007-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/WusElaina-007">
+<img src="https://img.shields.io/badge/GitHub-WusElaina--007-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<a href="https://github.com/WusElaina-007?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-EXPLORE-FF00CC?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
 </div>
@@ -197,11 +183,11 @@ $ ./wuselaina --next-project
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║       "BUILD. BREAK. LEARN. REPEAT."                 ║
+║          BUILD • BREAK • LEARN • REPEAT              ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7a00ff,100:ff00ff&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,50:7A00FF,100:00E5FF&height=120&section=footer" alt="footer" />
 
 </div>
