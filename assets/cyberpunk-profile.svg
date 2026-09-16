@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Wuselaina-007 cyberpunk profile">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="55%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#18051c"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#7a00ff"/>
+      <stop offset="100%" stop-color="#ff00cc"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00e5ff" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="url(#grid)" stroke="url(#neon)" stroke-width="2"/>
+  <path d="M0 285 L260 210 L420 250 L650 150 L830 205 L1200 85" fill="none" stroke="#00e5ff" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M0 320 L300 250 L510 290 L760 190 L950 235 L1200 145" fill="none" stroke="#ff00cc" stroke-opacity=".28" stroke-width="2"/>
+  <g filter="url(#glow)">
+    <text x="80" y="135" fill="#00e5ff" font-family="monospace" font-size="22" letter-spacing="5">SYSTEM // PROFILE</text>
+    <text x="80" y="205" fill="white" font-family="monospace" font-size="58" font-weight="700" letter-spacing="3">WUSELAINA-007</text>
+    <text x="84" y="246" fill="#d7d7e0" font-family="monospace" font-size="18" letter-spacing="3">CODE • CREATE • EXPLORE</text>
+  </g>
+  <g transform="translate(930 75)">
+    <rect x="0" y="0" width="170" height="170" rx="18" fill="#070a12" stroke="#7a00ff" stroke-width="2"/>
+    <path d="M35 55h100M35 85h100M35 115h70" stroke="#00e5ff" stroke-width="6" stroke-linecap="round" opacity=".85"/>
+    <circle cx="132" cy="115" r="8" fill="#ff00cc" filter="url(#glow)"/>
+    <text x="35" y="145" fill="#9aa4b2" font-family="monospace" font-size="12">ONLINE_✓</text>
+  </g>
+</svg>
