@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<a href="https://github.com/WusElaina-007?tab=repositories">
+<a href="https://github.com/WusElaina-007/nightshade">
 <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-%E2%86%92-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
